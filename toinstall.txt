@@ -1,0 +1,13 @@
+fastapi
+tensorflow
+selenium
+pillow
+numpy
+scapy
+opencv
+flask
+sailboat
+pyinstaller
+blessed
+flask_cors
+pyinquirer
